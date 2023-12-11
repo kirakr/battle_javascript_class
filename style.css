@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+}
+
+img{
+  width: 30%;;
+}
+
+table{
+  background-color: #ffff;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+#userImg{
+  width: 50%;
+}
+
+#pcImg{
+  width: 50%;
+}
+
+.container{
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 1200px;
+  text-align: center;
+  width: 560px;
+  margin: 0 auto;
+  background-color: rgb(207, 207, 207);
+}
+
+.result_area{
+  background-color: rgb(152, 225, 225);
+}
